@@ -1,0 +1,2 @@
+Prefix plugins/ElasticNet/example/
+Plugin ElasticNet inputfile parameters.train.txt outputfile output.rds
